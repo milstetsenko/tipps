@@ -7,7 +7,10 @@
 //
 
 import UIKit
-var X_Code = "lags"
+
+
+
+
 class SettingsViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var PercentageDefault: UITextField!
       override func viewDidLoad() {
