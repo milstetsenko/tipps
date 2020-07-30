@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var slider: UISlider!
     
     var passing = Double(10)
+    var xcode_lags = Double(9)
     override func viewDidLoad() {
         super.viewDidLoad()
         billAmountTextField.becomeFirstResponder()
