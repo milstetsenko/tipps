@@ -9,8 +9,6 @@
 import UIKit
 
 
-
-
 class SettingsViewController: UIViewController, UITextFieldDelegate {
     @IBOutlet weak var PercentageDefault: UITextField!
       override func viewDidLoad() {
